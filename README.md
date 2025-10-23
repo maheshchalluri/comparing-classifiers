@@ -1,4 +1,4 @@
-# 🧠 Comparing Classifiers — Practical Application 17.1
+# 🧠 Comparing Classifiers
 
 This repository contains a Jupyter Notebook that explores and compares several **machine learning classification algorithms** on a banking dataset from [UCI Machine Learning repository](https://archive.ics.uci.edu/dataset/222/bank+marketing).  
 The goal is to determine which model performs best when predicting whether a bank customer will subscribe to a long-term deposit product, based on demographic and marketing data.
